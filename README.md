@@ -34,8 +34,8 @@ Follow these steps to get your Django Chatrooms Project up and running:
 ### Installation
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/Rohit10jr/chatrooms.git
+```bash
+git clone https://github.com/Rohit10jr/chatrooms.git
   
 
 2. Create a virtual environment and activate it:
